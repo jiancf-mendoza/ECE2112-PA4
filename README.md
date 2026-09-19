@@ -9,7 +9,7 @@
 # A. VISAYAS COMMUNICATION DATAFRAME
 - Create a DataFrame named VisComm containing students whose Hometown is Visayas and whose Track
 is Communication. Retain only these columns, in the stated order:
-`|Name, Gender, Math, Electronics, Average|`
+| Name, Gender, Math, Electronics, Average |
 - Display the resulting DataFrame and its number of rows. Both filtering conditions must be applied to
 the source dataset before the columns are selected.
 - ## What Happened?
@@ -33,7 +33,7 @@ print("\nNumber of rows:", len(VisComm))
 # B. VISAYAS FEMALE DATAFRAME
 - Create a second DataFrame named VisFemale containing students whose Hometown is Visayas and
 whose Gender is Female. Retain only:
-`|Name, Track, GEAS, Electronics, Average|`
+| Name, Track, GEAS, Electronics, Average |
 - Display VisFemale. Then display only the rows of VisFemale whose Average is at least 60. Do not
 overwrite VisFemale when performing this second filter.
 - ## What Happened?
